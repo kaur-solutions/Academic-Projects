@@ -1,5 +1,5 @@
 # Project Title
-Dating Apps Analytics Project using Power BI
+Dating Apps Analytics Project
 ## Description
 The project focuses on analyzing various aspects of online dating applications, providing insights into user behavior, app popularity, and potential risks associated with online dating platforms. It is comprehensive analysis of online dating apps, covering multiple dimensions such as app usage, user ratings, swindler activity, and user demographics. It utilizes data visualization techniques to present findings in an easily digestible format.
 ## USAGE 
