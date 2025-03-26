@@ -1,4 +1,3 @@
-=======
 # Project Title
 Dating Apps Analytics Project
 ## Description
